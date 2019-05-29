@@ -12,7 +12,7 @@ _pairing: Anna & Rachel_
 
 - [x] Setting up a Project
 - [x] Working with User Stories
-- [ ] From a Domain Model to a Feature Test
+- [x] From a Domain Model to a Feature Test
 - [ ] Errors are good
 - [ ] From Feature Tests to Unit Tests
 - [ ] Passing your first Unit Test
@@ -36,3 +36,5 @@ _pairing: Anna & Rachel_
 
 ### Things we learned:
 - GitHub collaboration with both collaborators committing changes (driver initialised & added remote, navigator updates the tracking note & process notes)
+- structure of user story
+- stack trace -> list of method calls that the program was in the middle of when an Exception was thrown
