@@ -11,7 +11,7 @@ _pairing: Anna & Rachel_
 ## Challenges
 
 - [x] Setting up a Project
-- [ ] Working with User Stories
+- [x] Working with User Stories
 - [ ] From a Domain Model to a Feature Test
 - [ ] Errors are good
 - [ ] From Feature Tests to Unit Tests

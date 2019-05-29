@@ -27,4 +27,5 @@ Bike | working_check
 Station | released_or_locked
 
 Bike - working_check (true or false)
+
 Station - release
