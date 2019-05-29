@@ -15,7 +15,7 @@ _pairing: Anna & Rachel_
 - [x] From a Domain Model to a Feature Test
 - [x] Errors are good
 - [x] From Feature Tests to Unit Tests
-- [ ] Passing your first Unit Test
+- [x] Passing your first Unit Test
 - [ ] Back to the feature
 - [ ] Back to the unit
 - [ ] Building a bike
