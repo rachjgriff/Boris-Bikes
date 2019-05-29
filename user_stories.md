@@ -22,9 +22,9 @@ I'd like to see if a bike is working
 
 Objects | Messages
 -------- | --------
-User | uses_bike
-Bike | working_check 
-Station | released_or_locked
+User | 
+Bike | working?
+Station | release
 
 Bike - working_check (true or false)
 

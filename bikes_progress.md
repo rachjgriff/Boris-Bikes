@@ -40,3 +40,4 @@ _pairing: Anna & Rachel_
 - stack trace -> list of method calls that the program was in the middle of when an Exception was thrown
 - initialising the object in irb, as a nil object, solves the uninitialised constant error
 - initialising rspec - added lib directory manually, added the first test file in the spec directory, ran rspec to confirm all is green/setup was successful 
+- Rspec - use subject keyword to test instance of class (describe block contains class/object name which is the subject)

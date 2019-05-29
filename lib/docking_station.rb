@@ -3,7 +3,7 @@ class DockingStation
 #  def initialize
 #  end
 
-#  def release
+  def release_bike
   #  return true
-#  end
+  end
 end
