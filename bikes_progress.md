@@ -32,3 +32,7 @@ _pairing: Anna & Rachel_
 - [ ] Mocking Behaviour on Doubles
 - [ ] Men with Ven
 - [ ] Modules as Mixins
+
+
+### Things we learned:
+- GitHub collaboration with both collaborators committing changes (driver initialised & added remote, navigator updates the tracking note & process notes)
