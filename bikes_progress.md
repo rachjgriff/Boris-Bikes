@@ -13,7 +13,7 @@ _pairing: Anna & Rachel_
 - [x] Setting up a Project
 - [x] Working with User Stories
 - [x] From a Domain Model to a Feature Test
-- [ ] Errors are good
+- [x] Errors are good
 - [ ] From Feature Tests to Unit Tests
 - [ ] Passing your first Unit Test
 - [ ] Back to the feature
@@ -38,3 +38,4 @@ _pairing: Anna & Rachel_
 - GitHub collaboration with both collaborators committing changes (driver initialised & added remote, navigator updates the tracking note & process notes)
 - structure of user story
 - stack trace -> list of method calls that the program was in the middle of when an Exception was thrown
+- initialising the object in irb, as a nil object, solves the uninitialised constant error
