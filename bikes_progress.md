@@ -14,7 +14,7 @@ _pairing: Anna & Rachel_
 - [x] Working with User Stories
 - [x] From a Domain Model to a Feature Test
 - [x] Errors are good
-- [ ] From Feature Tests to Unit Tests
+- [x] From Feature Tests to Unit Tests
 - [ ] Passing your first Unit Test
 - [ ] Back to the feature
 - [ ] Back to the unit
@@ -39,3 +39,4 @@ _pairing: Anna & Rachel_
 - structure of user story
 - stack trace -> list of method calls that the program was in the middle of when an Exception was thrown
 - initialising the object in irb, as a nil object, solves the uninitialised constant error
+- initialising rspec - added lib directory manually, added the first test file in the spec directory, ran rspec to confirm all is green/setup was successful 
