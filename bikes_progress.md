@@ -16,10 +16,10 @@ _pairing: Anna & Rachel_
 - [x] Errors are good
 - [x] From Feature Tests to Unit Tests
 - [x] Passing your first Unit Test
-- [ ] Back to the feature
-- [ ] Back to the unit
-- [ ] Building a bike
-- [ ] Making Docking Stations get Bikes
+- [x] Back to the feature
+- [x] Back to the unit
+- [x] Building a bike
+- [x] Making Docking Stations get Bikes
 - [ ] Using Instance Variables
 - [ ] Raising Exceptions
 - [ ] Limiting Capacity
@@ -40,4 +40,5 @@ _pairing: Anna & Rachel_
 - stack trace -> list of method calls that the program was in the middle of when an Exception was thrown
 - initialising the object in irb, as a nil object, solves the uninitialised constant error
 - initialising rspec - added lib directory manually, added the first test file in the spec directory, ran rspec to confirm all is green/setup was successful 
-- Rspec - use subject keyword to test instance of class (describe block contains class/object name which is the subject)
+- Rspec - use the 'subject' keyword to test instances of class (describe block contains class/object name which is the subject, similar to self)
+- single-line Rspec syntax
